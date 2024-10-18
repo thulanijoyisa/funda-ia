@@ -37,7 +37,7 @@ export default function UserCourseList() {
 
             </div>
           ))
-      }
+           }
       </div>
     </div>
   )
